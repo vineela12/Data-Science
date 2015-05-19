@@ -1,0 +1,3 @@
+Stack:
+
+1. LIFO Data Structure
