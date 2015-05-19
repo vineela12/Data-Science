@@ -8,3 +8,6 @@ Stack:
 6. The pop operation removes an item from the top of the stack. 
 7. A pop either reveals previously concealed items or results in an empty stack, but, if the stack is empty, it goes into underflow state, which means no items are present in stack to be removed.
 8. A stack is a restricted data structure, because only a small number of operations are performed on it.
+
+Static Implementation using Arrays : Fixed Memory Allocation
+Dynamic Implementation using Linked Lists: Memory is allocated only after element is inserted to the stack.
