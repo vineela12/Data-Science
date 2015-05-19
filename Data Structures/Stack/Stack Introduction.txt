@@ -11,3 +11,6 @@ Stack:
 
 Static Implementation using Arrays : Fixed Memory Allocation
 Dynamic Implementation using Linked Lists: Memory is allocated only after element is inserted to the stack.
+
+Applications of Stack:
+Reverse of a String
