@@ -55,8 +55,6 @@ top=top-1;
 }
 void display()
 {
-Data Structure Through C Language
-122
 int i;
 if(top== -1)
 printf("\nStack is empty\n");
