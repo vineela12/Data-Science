@@ -4,6 +4,11 @@ Queue:
 2. A queue has two ends which are front end and rear end.
 3. Insertion is take place at rear end and deletion is take place at front end.
 4. Queue is also known as first in first out (FIFO) data structure.
+5. Circular queue is a type of array implementation of queue where the array is imagined as a circular data structure i.e. the next subscript value of the last subscript value of the array is ‘0’ .
+
+Priority Queue:
+1. Priority queue is a type of queue where the deletion of elements is depended upon some priority value associated with each element in the queue. 
+In case of max-priority queue, the element has highest priority value will be deleted first and in case of min-priority queue the element has lowest priority value will be deleted first.
 
 APPLICATION OF QUEUE
 There are several applications of queue available in computer
