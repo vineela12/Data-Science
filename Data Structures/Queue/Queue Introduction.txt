@@ -10,6 +10,14 @@ Priority Queue:
 1. Priority queue is a type of queue where the deletion of elements is depended upon some priority value associated with each element in the queue. 
 In case of max-priority queue, the element has highest priority value will be deleted first and in case of min-priority queue the element has lowest priority value will be deleted first.
 
+ARRAY IMPLEMENTATION OF QUEUE:
+1. In array implementation, an array and two variables, ‘front’ and ‘rear’ is used.
+2. ‘front’ and ‘rear’ are initialized with value ‘–1’.
+3. To insert an element, at first the value of ‘rear’ is incremented if it is possible and then the element is input into the array at the subscript value equal to the value of ‘rear’.
+4. The overflow condition for array implementation is “‘front’ is equal to 0 AND ‘rear’ is equal to (size of the array) –1’’.
+5. In case of deletion operation ‘front’ variable is incremented by one if it is not equal to ‘–1’.
+6. The underflow condition is “‘front’ is equal to ‘–1’’’.
+
 APPLICATION OF QUEUE
 There are several applications of queue available in computer
 system. Some of these are given as follows.
