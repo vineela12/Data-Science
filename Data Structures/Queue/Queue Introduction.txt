@@ -4,3 +4,17 @@ Queue:
 2. A queue has two ends which are front end and rear end.
 3. Insertion is take place at rear end and deletion is take place at front end.
 4. Queue is also known as first in first out (FIFO) data structure.
+
+APPLICATION OF QUEUE
+There are several applications of queue available in computer
+system. Some of these are given as follows.
+1. In printers, queue is used to print the different files.
+2. Queue is used to access files from a disk system.
+3. In a multiprogramming environment, queue is used for CPU
+scheduling or job scheduling of operating system.
+4. In any type of ticket reservation system, queue can be used for
+issuing tickets to the customers.
+5. Queue is used in the implementation of breadth first traversal of
+graph.
+6. Queue is used in many other real world systems which are used
+in some scientific research, military operations etc.
