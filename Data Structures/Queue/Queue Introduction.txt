@@ -1,1 +1,6 @@
 Queue:
+
+1. Queue is a linear data structure in which removal of elements are done in the same order they were inserted i.e., the element will be removed first which is inserted first.
+2. A queue has two ends which are front end and rear end.
+3. Insertion is take place at rear end and deletion is take place at front end.
+4. Queue is also known as first in first out (FIFO) data structure.
